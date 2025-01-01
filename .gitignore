@@ -1,0 +1,8 @@
+app.log
+secrets.json
+style.css
+
+*.log 
+# all the log files.
+
+# when we're add all the files in  gitignore file, while forking nobody can see or access this file.
